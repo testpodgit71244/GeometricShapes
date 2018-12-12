@@ -12,9 +12,7 @@ public class Circle extends Shape {
     private double radius;
     private double pan;
     private int a = 0;
-       private int a = 0;
-          private int a = 0;
-             private int a = 0;
+    private int b = 2; 
 
 
     public Circle() {
