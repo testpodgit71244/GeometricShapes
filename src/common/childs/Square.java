@@ -13,7 +13,7 @@ public class Square extends Shape {
     private double b;
     private double c;
     private double d;
-    private double k; 
+    private double k;
 
 
     public Square() {
