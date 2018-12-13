@@ -11,6 +11,8 @@ public class Trapeze extends Shape {
     private double baseTopLength;
     private double baseBottomLength;
     private double height;
+      private double height1;
+        private double height2;
 
     public Trapeze() {
         shapeDraw();
