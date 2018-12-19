@@ -23,8 +23,7 @@ public class Square extends Shape {
         getColor();
 
     }
-
-
+									
     public double getSide(){
         side = RandomNumberHelper.randomSizeSide();
         return side;
