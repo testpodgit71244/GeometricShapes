@@ -12,6 +12,14 @@ public class Trapeze extends Shape {
     private double baseBottomLength;
     private double height;
 
+
+
+    private double area1;
+    private String color1;
+    private double baseTopLength1;
+    private double baseBottomLength1;
+    private double height1;
+
     public Trapeze() {
         shapeDraw();
         getColor();
