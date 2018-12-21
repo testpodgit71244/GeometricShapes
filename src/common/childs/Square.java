@@ -13,6 +13,7 @@ public class Square extends Shape {
     private double b;
     private double c;
     private double d;
+    private double k;
 
 
     public Square() {
@@ -22,8 +23,7 @@ public class Square extends Shape {
         getColor();
 
     }
-
-
+									
     public double getSide(){
         side = RandomNumberHelper.randomSizeSide();
         return side;

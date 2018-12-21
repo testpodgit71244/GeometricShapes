@@ -10,6 +10,9 @@ public class Circle extends Shape {
     private String color;
     private double diameter;
     private double radius;
+    private double pan;
+    private int a = 0;
+    private int b = 2; 
 
 
     public Circle() {
