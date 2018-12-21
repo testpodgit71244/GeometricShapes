@@ -7,9 +7,7 @@ public class ColorHelper {
 
     public static String randomColor() {
         List<String> colorNames = new ArrayList<>();
-        colorNames.add("чорний");
-        colorNames.add("зелений");
-        colorNames.add("синій");
+    
         colorNames.add("жовтий");
         colorNames.add("білий");
         colorNames.add("сірий");
