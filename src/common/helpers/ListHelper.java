@@ -16,6 +16,7 @@ public class ListHelper {
         List<Shape> shapes = new ArrayList<>();
         for (int i = 0; i < RandomNumberHelper.randomSizeSide(); i++) {
             shapes.add(randomShape());
+                shapes.add(randomShape());
 
         }
         for (Shape sh: shapes){
@@ -27,9 +28,6 @@ public class ListHelper {
 
     public Shape randomShape() {
         List<Shape> allShapes = new ArrayList<>();
-        allShapes.add(new Circle());
-        allShapes.add(new Square());
-        allShapes.add(new Trapeze());
         allShapes.add(new Triangle());
 
         return allShapes.get((int) (Math.random() * allShapes.size() ));

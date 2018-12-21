@@ -9,6 +9,10 @@ public class RandomNumberHelper {
     public static double randomSizeSide() {
 
         number = Math.abs(Math.random() * max);
+           number = Math.abs(Math.random() * max);
+              number = Math.abs(Math.random() * max);
+                 number = Math.abs(Math.random() * max);
+                    number = Math.abs(Math.random() * max);
         return number;
     }
 

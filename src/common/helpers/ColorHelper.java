@@ -7,8 +7,31 @@ public class ColorHelper {
 
     public static String randomColor() {
         List<String> colorNames = new ArrayList<>();
-    
+
         colorNames.add("жовтий");
+        colorNames.add("білий");
+         colorNames.add("жовтий");
+        colorNames.add("білий");
+         colorNames.add("жовтий");
+        colorNames.add("білий");
+         colorNames.add("жовтий");
+        colorNames.add("білий");
+         colorNames.add("жовтий");
+        colorNames.add("білий"); colorNames.add("жовтий");
+        colorNames.add("білий"); colorNames.add("жовтий");
+        colorNames.add("білий"); colorNames.add("жовтий");
+        colorNames.add("білий"); colorNames.add("жовтий");
+        colorNames.add("білий"); colorNames.add("жовтий");
+        colorNames.add("білий"); colorNames.add("жовтий");
+        colorNames.add("білий"); colorNames.add("жовтий");
+        colorNames.add("білий"); colorNames.add("жовтий");
+        colorNames.add("білий"); colorNames.add("жовтий");
+        colorNames.add("білий"); colorNames.add("жовтий");
+        colorNames.add("білий"); colorNames.add("жовтий");
+        colorNames.add("білий"); colorNames.add("жовтий");
+        colorNames.add("білий"); colorNames.add("жовтий");
+        colorNames.add("білий"); colorNames.add("жовтий");
+        colorNames.add("білий"); colorNames.add("жовтий");
         colorNames.add("білий");
         colorNames.add("сірий");
 
