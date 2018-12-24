@@ -8,15 +8,7 @@ public class Square extends Shape {
 
     private double side;
     private String color;
-    private double area;
-    private double a;
-    private double b;
-    private double c;
-    private double d;
-    private double k;
-        private double k1;
-               private double k2;
-                      private double k3;
+
 
 
     public Square() {
